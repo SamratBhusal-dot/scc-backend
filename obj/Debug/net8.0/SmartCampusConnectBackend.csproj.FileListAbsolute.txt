@@ -1,0 +1,124 @@
+/Users/samratbhusal/Documents/SUMMER 2025/SmartCampusConnect/Backend/obj/Debug/net8.0/SmartCampusConnectBackend.csproj.AssemblyReference.cache
+/Users/samratbhusal/Documents/SUMMER 2025/SmartCampusConnect/Backend/obj/Debug/net8.0/SmartCampusConnectBackend.GeneratedMSBuildEditorConfig.editorconfig
+/Users/samratbhusal/Documents/SUMMER 2025/SmartCampusConnect/Backend/obj/Debug/net8.0/SmartCampusConnectBackend.AssemblyInfoInputs.cache
+/Users/samratbhusal/Documents/SUMMER 2025/SmartCampusConnect/Backend/obj/Debug/net8.0/SmartCampusConnectBackend.AssemblyInfo.cs
+/Users/samratbhusal/Documents/SUMMER 2025/SmartCampusConnect/Backend/obj/Debug/net8.0/SmartCampusConnectBackend.csproj.CoreCompileInputs.cache
+/Users/samratbhusal/Documents/SUMMER 2025/SmartCampusConnect/Backend/obj/Debug/net8.0/SmartCampusConnectBackend.MvcApplicationPartsAssemblyInfo.cs
+/Users/samratbhusal/Documents/SUMMER 2025/SmartCampusConnect/Backend/obj/Debug/net8.0/SmartCampusConnectBackend.MvcApplicationPartsAssemblyInfo.cache
+/Users/samratbhusal/Documents/SUMMER 2025/SmartCampusConnect/Backend/bin/Debug/net8.0/appsettings.Devlopment.json
+/Users/samratbhusal/Documents/SUMMER 2025/SmartCampusConnect/Backend/bin/Debug/net8.0/appsettings.json
+/Users/samratbhusal/Documents/SUMMER 2025/SmartCampusConnect/Backend/bin/Debug/net8.0/SmartCampusConnectBackend
+/Users/samratbhusal/Documents/SUMMER 2025/SmartCampusConnect/Backend/bin/Debug/net8.0/SmartCampusConnectBackend.deps.json
+/Users/samratbhusal/Documents/SUMMER 2025/SmartCampusConnect/Backend/bin/Debug/net8.0/SmartCampusConnectBackend.runtimeconfig.json
+/Users/samratbhusal/Documents/SUMMER 2025/SmartCampusConnect/Backend/bin/Debug/net8.0/SmartCampusConnectBackend.dll
+/Users/samratbhusal/Documents/SUMMER 2025/SmartCampusConnect/Backend/bin/Debug/net8.0/SmartCampusConnectBackend.pdb
+/Users/samratbhusal/Documents/SUMMER 2025/SmartCampusConnect/Backend/bin/Debug/net8.0/AWSSDK.Core.dll
+/Users/samratbhusal/Documents/SUMMER 2025/SmartCampusConnect/Backend/bin/Debug/net8.0/AWSSDK.SecurityToken.dll
+/Users/samratbhusal/Documents/SUMMER 2025/SmartCampusConnect/Backend/bin/Debug/net8.0/DnsClient.dll
+/Users/samratbhusal/Documents/SUMMER 2025/SmartCampusConnect/Backend/bin/Debug/net8.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+/Users/samratbhusal/Documents/SUMMER 2025/SmartCampusConnect/Backend/bin/Debug/net8.0/Microsoft.IdentityModel.Abstractions.dll
+/Users/samratbhusal/Documents/SUMMER 2025/SmartCampusConnect/Backend/bin/Debug/net8.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/samratbhusal/Documents/SUMMER 2025/SmartCampusConnect/Backend/bin/Debug/net8.0/Microsoft.IdentityModel.Logging.dll
+/Users/samratbhusal/Documents/SUMMER 2025/SmartCampusConnect/Backend/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.dll
+/Users/samratbhusal/Documents/SUMMER 2025/SmartCampusConnect/Backend/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/samratbhusal/Documents/SUMMER 2025/SmartCampusConnect/Backend/bin/Debug/net8.0/Microsoft.IdentityModel.Tokens.dll
+/Users/samratbhusal/Documents/SUMMER 2025/SmartCampusConnect/Backend/bin/Debug/net8.0/Microsoft.OpenApi.dll
+/Users/samratbhusal/Documents/SUMMER 2025/SmartCampusConnect/Backend/bin/Debug/net8.0/MongoDB.Bson.dll
+/Users/samratbhusal/Documents/SUMMER 2025/SmartCampusConnect/Backend/bin/Debug/net8.0/MongoDB.Driver.dll
+/Users/samratbhusal/Documents/SUMMER 2025/SmartCampusConnect/Backend/bin/Debug/net8.0/MongoDB.Driver.Core.dll
+/Users/samratbhusal/Documents/SUMMER 2025/SmartCampusConnect/Backend/bin/Debug/net8.0/MongoDB.Libmongocrypt.dll
+/Users/samratbhusal/Documents/SUMMER 2025/SmartCampusConnect/Backend/bin/Debug/net8.0/SharpCompress.dll
+/Users/samratbhusal/Documents/SUMMER 2025/SmartCampusConnect/Backend/bin/Debug/net8.0/Snappier.dll
+/Users/samratbhusal/Documents/SUMMER 2025/SmartCampusConnect/Backend/bin/Debug/net8.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/samratbhusal/Documents/SUMMER 2025/SmartCampusConnect/Backend/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/samratbhusal/Documents/SUMMER 2025/SmartCampusConnect/Backend/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/samratbhusal/Documents/SUMMER 2025/SmartCampusConnect/Backend/bin/Debug/net8.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/samratbhusal/Documents/SUMMER 2025/SmartCampusConnect/Backend/bin/Debug/net8.0/ZstdSharp.dll
+/Users/samratbhusal/Documents/SUMMER 2025/SmartCampusConnect/Backend/bin/Debug/net8.0/runtimes/linux/native/libmongocrypt.so
+/Users/samratbhusal/Documents/SUMMER 2025/SmartCampusConnect/Backend/bin/Debug/net8.0/runtimes/osx/native/libmongocrypt.dylib
+/Users/samratbhusal/Documents/SUMMER 2025/SmartCampusConnect/Backend/bin/Debug/net8.0/runtimes/win/native/mongocrypt.dll
+/Users/samratbhusal/Documents/SUMMER 2025/SmartCampusConnect/Backend/obj/Debug/net8.0/staticwebassets.build.json
+/Users/samratbhusal/Documents/SUMMER 2025/SmartCampusConnect/Backend/obj/Debug/net8.0/staticwebassets.development.json
+/Users/samratbhusal/Documents/SUMMER 2025/SmartCampusConnect/Backend/obj/Debug/net8.0/staticwebassets/msbuild.SmartCampusConnectBackend.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/samratbhusal/Documents/SUMMER 2025/SmartCampusConnect/Backend/obj/Debug/net8.0/staticwebassets/msbuild.build.SmartCampusConnectBackend.props
+/Users/samratbhusal/Documents/SUMMER 2025/SmartCampusConnect/Backend/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.SmartCampusConnectBackend.props
+/Users/samratbhusal/Documents/SUMMER 2025/SmartCampusConnect/Backend/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.SmartCampusConnectBackend.props
+/Users/samratbhusal/Documents/SUMMER 2025/SmartCampusConnect/Backend/obj/Debug/net8.0/staticwebassets.pack.json
+/Users/samratbhusal/Documents/SUMMER 2025/SmartCampusConnect/Backend/obj/Debug/net8.0/scopedcss/bundle/SmartCampusConnectBackend.styles.css
+/Users/samratbhusal/Documents/SUMMER 2025/SmartCampusConnect/Backend/obj/Debug/net8.0/SmartCam.BF922ABD.Up2Date
+/Users/samratbhusal/Documents/SUMMER 2025/SmartCampusConnect/Backend/obj/Debug/net8.0/SmartCampusConnectBackend.dll
+/Users/samratbhusal/Documents/SUMMER 2025/SmartCampusConnect/Backend/obj/Debug/net8.0/refint/SmartCampusConnectBackend.dll
+/Users/samratbhusal/Documents/SUMMER 2025/SmartCampusConnect/Backend/obj/Debug/net8.0/SmartCampusConnectBackend.pdb
+/Users/samratbhusal/Documents/SUMMER 2025/SmartCampusConnect/Backend/obj/Debug/net8.0/SmartCampusConnectBackend.genruntimeconfig.cache
+/Users/samratbhusal/Documents/SUMMER 2025/SmartCampusConnect/Backend/obj/Debug/net8.0/ref/SmartCampusConnectBackend.dll
+/Users/samratbhusal/Documents/SUMMER 2025/SmartCampusConnect/Backend/bin/Debug/net8.0/SmartCampusConnectBackend.staticwebassets.runtime.json
+/Users/samratbhusal/Documents/SUMMER 2025/SmartCampusConnect/Backend/bin/Debug/net8.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/samratbhusal/Documents/SUMMER 2025/SmartCampusConnect/Backend/bin/Debug/net8.0/Microsoft.Extensions.Diagnostics.Abstractions.dll
+/Users/samratbhusal/Documents/SUMMER 2025/SmartCampusConnect/Backend/bin/Debug/net8.0/Microsoft.Extensions.Hosting.Abstractions.dll
+/Users/samratbhusal/Documents/SUMMER 2025/SmartCampusConnect/Backend/bin/Debug/net8.0/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/samratbhusal/Documents/SUMMER 2025/SmartCampusConnect/Backend/bin/Debug/net8.0/Microsoft.Extensions.ObjectPool.dll
+/Users/samratbhusal/Documents/SUMMER 2025/SmartCampusConnect/Backend/bin/Debug/net8.0/Microsoft.Extensions.Options.dll
+/Users/samratbhusal/Documents/SUMMER 2025/SmartCampusConnect/Backend/bin/Debug/net8.0/Newtonsoft.Json.dll
+/Users/samratbhusal/Documents/SUMMER 2025/SmartCampusConnect/Backend/bin/Debug/net8.0/System.Net.WebSockets.WebSocketProtocol.dll
+/Users/samratbhusal/Documents/SUMMER 2025/SmartCampusConnect 2/Backend/bin/Debug/net8.0/appsettings.Devlopment.json
+/Users/samratbhusal/Documents/SUMMER 2025/SmartCampusConnect 2/Backend/bin/Debug/net8.0/appsettings.json
+/Users/samratbhusal/Documents/SUMMER 2025/SmartCampusConnect 2/Backend/bin/Debug/net8.0/SmartCampusConnectBackend.staticwebassets.runtime.json
+/Users/samratbhusal/Documents/SUMMER 2025/SmartCampusConnect 2/Backend/bin/Debug/net8.0/SmartCampusConnectBackend
+/Users/samratbhusal/Documents/SUMMER 2025/SmartCampusConnect 2/Backend/bin/Debug/net8.0/SmartCampusConnectBackend.deps.json
+/Users/samratbhusal/Documents/SUMMER 2025/SmartCampusConnect 2/Backend/bin/Debug/net8.0/SmartCampusConnectBackend.runtimeconfig.json
+/Users/samratbhusal/Documents/SUMMER 2025/SmartCampusConnect 2/Backend/bin/Debug/net8.0/SmartCampusConnectBackend.dll
+/Users/samratbhusal/Documents/SUMMER 2025/SmartCampusConnect 2/Backend/bin/Debug/net8.0/SmartCampusConnectBackend.pdb
+/Users/samratbhusal/Documents/SUMMER 2025/SmartCampusConnect 2/Backend/bin/Debug/net8.0/AWSSDK.Core.dll
+/Users/samratbhusal/Documents/SUMMER 2025/SmartCampusConnect 2/Backend/bin/Debug/net8.0/AWSSDK.SecurityToken.dll
+/Users/samratbhusal/Documents/SUMMER 2025/SmartCampusConnect 2/Backend/bin/Debug/net8.0/DnsClient.dll
+/Users/samratbhusal/Documents/SUMMER 2025/SmartCampusConnect 2/Backend/bin/Debug/net8.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+/Users/samratbhusal/Documents/SUMMER 2025/SmartCampusConnect 2/Backend/bin/Debug/net8.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/samratbhusal/Documents/SUMMER 2025/SmartCampusConnect 2/Backend/bin/Debug/net8.0/Microsoft.Extensions.Diagnostics.Abstractions.dll
+/Users/samratbhusal/Documents/SUMMER 2025/SmartCampusConnect 2/Backend/bin/Debug/net8.0/Microsoft.Extensions.Hosting.Abstractions.dll
+/Users/samratbhusal/Documents/SUMMER 2025/SmartCampusConnect 2/Backend/bin/Debug/net8.0/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/samratbhusal/Documents/SUMMER 2025/SmartCampusConnect 2/Backend/bin/Debug/net8.0/Microsoft.Extensions.ObjectPool.dll
+/Users/samratbhusal/Documents/SUMMER 2025/SmartCampusConnect 2/Backend/bin/Debug/net8.0/Microsoft.Extensions.Options.dll
+/Users/samratbhusal/Documents/SUMMER 2025/SmartCampusConnect 2/Backend/bin/Debug/net8.0/Microsoft.IdentityModel.Abstractions.dll
+/Users/samratbhusal/Documents/SUMMER 2025/SmartCampusConnect 2/Backend/bin/Debug/net8.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/samratbhusal/Documents/SUMMER 2025/SmartCampusConnect 2/Backend/bin/Debug/net8.0/Microsoft.IdentityModel.Logging.dll
+/Users/samratbhusal/Documents/SUMMER 2025/SmartCampusConnect 2/Backend/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.dll
+/Users/samratbhusal/Documents/SUMMER 2025/SmartCampusConnect 2/Backend/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/samratbhusal/Documents/SUMMER 2025/SmartCampusConnect 2/Backend/bin/Debug/net8.0/Microsoft.IdentityModel.Tokens.dll
+/Users/samratbhusal/Documents/SUMMER 2025/SmartCampusConnect 2/Backend/bin/Debug/net8.0/Microsoft.OpenApi.dll
+/Users/samratbhusal/Documents/SUMMER 2025/SmartCampusConnect 2/Backend/bin/Debug/net8.0/MongoDB.Bson.dll
+/Users/samratbhusal/Documents/SUMMER 2025/SmartCampusConnect 2/Backend/bin/Debug/net8.0/MongoDB.Driver.dll
+/Users/samratbhusal/Documents/SUMMER 2025/SmartCampusConnect 2/Backend/bin/Debug/net8.0/MongoDB.Driver.Core.dll
+/Users/samratbhusal/Documents/SUMMER 2025/SmartCampusConnect 2/Backend/bin/Debug/net8.0/MongoDB.Libmongocrypt.dll
+/Users/samratbhusal/Documents/SUMMER 2025/SmartCampusConnect 2/Backend/bin/Debug/net8.0/Newtonsoft.Json.dll
+/Users/samratbhusal/Documents/SUMMER 2025/SmartCampusConnect 2/Backend/bin/Debug/net8.0/SharpCompress.dll
+/Users/samratbhusal/Documents/SUMMER 2025/SmartCampusConnect 2/Backend/bin/Debug/net8.0/Snappier.dll
+/Users/samratbhusal/Documents/SUMMER 2025/SmartCampusConnect 2/Backend/bin/Debug/net8.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/samratbhusal/Documents/SUMMER 2025/SmartCampusConnect 2/Backend/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/samratbhusal/Documents/SUMMER 2025/SmartCampusConnect 2/Backend/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/samratbhusal/Documents/SUMMER 2025/SmartCampusConnect 2/Backend/bin/Debug/net8.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/samratbhusal/Documents/SUMMER 2025/SmartCampusConnect 2/Backend/bin/Debug/net8.0/System.Net.WebSockets.WebSocketProtocol.dll
+/Users/samratbhusal/Documents/SUMMER 2025/SmartCampusConnect 2/Backend/bin/Debug/net8.0/ZstdSharp.dll
+/Users/samratbhusal/Documents/SUMMER 2025/SmartCampusConnect 2/Backend/bin/Debug/net8.0/runtimes/linux/native/libmongocrypt.so
+/Users/samratbhusal/Documents/SUMMER 2025/SmartCampusConnect 2/Backend/bin/Debug/net8.0/runtimes/osx/native/libmongocrypt.dylib
+/Users/samratbhusal/Documents/SUMMER 2025/SmartCampusConnect 2/Backend/bin/Debug/net8.0/runtimes/win/native/mongocrypt.dll
+/Users/samratbhusal/Documents/SUMMER 2025/SmartCampusConnect 2/Backend/obj/Debug/net8.0/SmartCampusConnectBackend.csproj.AssemblyReference.cache
+/Users/samratbhusal/Documents/SUMMER 2025/SmartCampusConnect 2/Backend/obj/Debug/net8.0/SmartCampusConnectBackend.GeneratedMSBuildEditorConfig.editorconfig
+/Users/samratbhusal/Documents/SUMMER 2025/SmartCampusConnect 2/Backend/obj/Debug/net8.0/SmartCampusConnectBackend.AssemblyInfoInputs.cache
+/Users/samratbhusal/Documents/SUMMER 2025/SmartCampusConnect 2/Backend/obj/Debug/net8.0/SmartCampusConnectBackend.AssemblyInfo.cs
+/Users/samratbhusal/Documents/SUMMER 2025/SmartCampusConnect 2/Backend/obj/Debug/net8.0/SmartCampusConnectBackend.csproj.CoreCompileInputs.cache
+/Users/samratbhusal/Documents/SUMMER 2025/SmartCampusConnect 2/Backend/obj/Debug/net8.0/SmartCampusConnectBackend.MvcApplicationPartsAssemblyInfo.cs
+/Users/samratbhusal/Documents/SUMMER 2025/SmartCampusConnect 2/Backend/obj/Debug/net8.0/SmartCampusConnectBackend.MvcApplicationPartsAssemblyInfo.cache
+/Users/samratbhusal/Documents/SUMMER 2025/SmartCampusConnect 2/Backend/obj/Debug/net8.0/staticwebassets.build.json
+/Users/samratbhusal/Documents/SUMMER 2025/SmartCampusConnect 2/Backend/obj/Debug/net8.0/staticwebassets.development.json
+/Users/samratbhusal/Documents/SUMMER 2025/SmartCampusConnect 2/Backend/obj/Debug/net8.0/staticwebassets/msbuild.SmartCampusConnectBackend.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/samratbhusal/Documents/SUMMER 2025/SmartCampusConnect 2/Backend/obj/Debug/net8.0/staticwebassets/msbuild.build.SmartCampusConnectBackend.props
+/Users/samratbhusal/Documents/SUMMER 2025/SmartCampusConnect 2/Backend/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.SmartCampusConnectBackend.props
+/Users/samratbhusal/Documents/SUMMER 2025/SmartCampusConnect 2/Backend/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.SmartCampusConnectBackend.props
+/Users/samratbhusal/Documents/SUMMER 2025/SmartCampusConnect 2/Backend/obj/Debug/net8.0/staticwebassets.pack.json
+/Users/samratbhusal/Documents/SUMMER 2025/SmartCampusConnect 2/Backend/obj/Debug/net8.0/scopedcss/bundle/SmartCampusConnectBackend.styles.css
+/Users/samratbhusal/Documents/SUMMER 2025/SmartCampusConnect 2/Backend/obj/Debug/net8.0/SmartCam.BF922ABD.Up2Date
+/Users/samratbhusal/Documents/SUMMER 2025/SmartCampusConnect 2/Backend/obj/Debug/net8.0/SmartCampusConnectBackend.dll
+/Users/samratbhusal/Documents/SUMMER 2025/SmartCampusConnect 2/Backend/obj/Debug/net8.0/refint/SmartCampusConnectBackend.dll
+/Users/samratbhusal/Documents/SUMMER 2025/SmartCampusConnect 2/Backend/obj/Debug/net8.0/SmartCampusConnectBackend.pdb
+/Users/samratbhusal/Documents/SUMMER 2025/SmartCampusConnect 2/Backend/obj/Debug/net8.0/SmartCampusConnectBackend.genruntimeconfig.cache
+/Users/samratbhusal/Documents/SUMMER 2025/SmartCampusConnect 2/Backend/obj/Debug/net8.0/ref/SmartCampusConnectBackend.dll

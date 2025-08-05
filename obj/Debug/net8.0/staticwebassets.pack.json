@@ -1,0 +1,33 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/samratbhusal/Documents/SUMMER 2025/SmartCampusConnect 2/Backend/wwwroot/images/abcb9148-fb78-44f5-8fdb-69632e540c03.jpeg",
+      "PackagePath": "staticwebassets/images/abcb9148-fb78-44f5-8fdb-69632e540c03.jpeg"
+    },
+    {
+      "Id": "/Users/samratbhusal/Documents/SUMMER 2025/SmartCampusConnect 2/Backend/wwwroot/images/ba7311dd-3a50-4b36-a686-275ac4ff58fe.jpeg",
+      "PackagePath": "staticwebassets/images/ba7311dd-3a50-4b36-a686-275ac4ff58fe.jpeg"
+    },
+    {
+      "Id": "/Users/samratbhusal/Documents/SUMMER 2025/SmartCampusConnect 2/Backend/wwwroot/images/f6dcc5c1-d19b-4080-9de2-01d11ec37b9b.jpeg",
+      "PackagePath": "staticwebassets/images/f6dcc5c1-d19b-4080-9de2-01d11ec37b9b.jpeg"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.SmartCampusConnectBackend.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.build.SmartCampusConnectBackend.props",
+      "PackagePath": "build\\SmartCampusConnectBackend.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.SmartCampusConnectBackend.props",
+      "PackagePath": "buildMultiTargeting\\SmartCampusConnectBackend.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.SmartCampusConnectBackend.props",
+      "PackagePath": "buildTransitive\\SmartCampusConnectBackend.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

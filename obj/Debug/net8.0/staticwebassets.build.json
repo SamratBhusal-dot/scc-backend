@@ -1,0 +1,77 @@
+{
+  "Version": 1,
+  "Hash": "PiO+Lyx00ocv9A28c4PtiHhyZwmiMCMUN9aWnjGfrCE=",
+  "Source": "SmartCampusConnectBackend",
+  "BasePath": "_content/SmartCampusConnectBackend",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "SmartCampusConnectBackend/wwwroot",
+      "Source": "SmartCampusConnectBackend",
+      "ContentRoot": "/Users/samratbhusal/Documents/SUMMER 2025/SmartCampusConnect 2/Backend/wwwroot/",
+      "BasePath": "_content/SmartCampusConnectBackend",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "/Users/samratbhusal/Documents/SUMMER 2025/SmartCampusConnect 2/Backend/wwwroot/images/abcb9148-fb78-44f5-8fdb-69632e540c03.jpeg",
+      "SourceId": "SmartCampusConnectBackend",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/samratbhusal/Documents/SUMMER 2025/SmartCampusConnect 2/Backend/wwwroot/",
+      "BasePath": "_content/SmartCampusConnectBackend",
+      "RelativePath": "images/abcb9148-fb78-44f5-8fdb-69632e540c03.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/images/abcb9148-fb78-44f5-8fdb-69632e540c03.jpeg"
+    },
+    {
+      "Identity": "/Users/samratbhusal/Documents/SUMMER 2025/SmartCampusConnect 2/Backend/wwwroot/images/ba7311dd-3a50-4b36-a686-275ac4ff58fe.jpeg",
+      "SourceId": "SmartCampusConnectBackend",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/samratbhusal/Documents/SUMMER 2025/SmartCampusConnect 2/Backend/wwwroot/",
+      "BasePath": "_content/SmartCampusConnectBackend",
+      "RelativePath": "images/ba7311dd-3a50-4b36-a686-275ac4ff58fe.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/images/ba7311dd-3a50-4b36-a686-275ac4ff58fe.jpeg"
+    },
+    {
+      "Identity": "/Users/samratbhusal/Documents/SUMMER 2025/SmartCampusConnect 2/Backend/wwwroot/images/f6dcc5c1-d19b-4080-9de2-01d11ec37b9b.jpeg",
+      "SourceId": "SmartCampusConnectBackend",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/samratbhusal/Documents/SUMMER 2025/SmartCampusConnect 2/Backend/wwwroot/",
+      "BasePath": "_content/SmartCampusConnectBackend",
+      "RelativePath": "images/f6dcc5c1-d19b-4080-9de2-01d11ec37b9b.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/images/f6dcc5c1-d19b-4080-9de2-01d11ec37b9b.jpeg"
+    }
+  ]
+}
