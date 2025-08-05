@@ -79,8 +79,8 @@ builder.Services.AddCors(options =>
                                 "http://localhost:5500",
                                 "http://10.30.1.117:5500", // Your Mac's local network IP for frontend
 
-                                // ADD YOUR DEPLOYED RENDER FRONTEND DOMAIN HERE (e.g., "https://smartcampusconnect.onrender.com")
-                                "https://smartcampusconnect.onrender.com" // Example: Replace with your actual Render frontend URL
+                                // THIS IS THE IMPORTANT CHANGE:
+                                "https://scc-frontend-i9j4.onrender.com" // Your actual Render frontend URL
                            )
                           .AllowAnyHeader()
                           .AllowAnyMethod()
